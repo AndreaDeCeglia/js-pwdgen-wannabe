@@ -16,3 +16,20 @@ let lastname = prompt('write your lastname');
 
 console.log(lastname);
 
+//setting of third variable
+//about FAVOURITE COLOR
+
+let favourite_color = prompt('write your fovourite color');
+
+//check
+
+console.log(favourite_color);
+
+//setting of constant
+//about a NUMBER
+
+const number = '89';
+
+//check
+
+console.log(number);
