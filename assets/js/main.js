@@ -37,4 +37,4 @@ console.log(number);
 //password generator
 //now, we'll get the html's element, for inset it the resolt of js function
 
-document.getElementById('password').innerHTML = `La tua Password insicurissima è ${name + lastname + favourite_color + number}`
+document.getElementById('password').innerHTML = `La tua Password insicurissima è: ${name + lastname + favourite_color + number}`
